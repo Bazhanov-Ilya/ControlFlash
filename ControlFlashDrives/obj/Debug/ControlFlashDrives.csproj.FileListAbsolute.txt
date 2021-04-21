@@ -1,0 +1,94 @@
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\ControlFlashDrives.exe
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\ControlFlashDrives.pdb
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csprojAssemblyReference.cache
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.loginForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.Properties.Resources.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csproj.GenerateResource.cache
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csproj.CoreCompileInputs.cache
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.exe
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.pdb
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.registrationForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.MainForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.IssueForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.TakeForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.UsersForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.DelUsersForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.RefreshPassForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.ChangeTimeForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.TimeIssueForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.AddFlashForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.DelFlashForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.FlashForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.BlackListForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.ChangeBlackListForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.SubdivisionForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.AddSubdivisionForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.DelSubdivisionForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\ControlFlashDrives.exe.config
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csproj.CopyComplete
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\stdole.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\ControlFlashDrives.exe.config
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\ControlFlashDrives.exe
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\ControlFlashDrives.pdb
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\bin\Debug\stdole.dll
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csprojAssemblyReference.cache
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.AddFlashForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.AddSubdivisionForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.BlackListForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.ChangeBlackListForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.ChangeTimeForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.DelFlashForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.DelSubdivisionForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.DelUsersForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.FlashForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.RefreshPassForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.SubdivisionForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.TakeForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.IssueForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.LoginForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.MainForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.Properties.Resources.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.RegistrationForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.TimeIssueForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.UsersForm.resources
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csproj.GenerateResource.cache
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csproj.CoreCompileInputs.cache
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.csproj.CopyComplete
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.exe
+C:\Users\Home.net\source\repos\Новая папка\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.pdb
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.HistoryForm.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\obj\Debug\ControlFlashDrives.PrintShow.resources
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Home.net\source\repos\ControlFlashDrives\ControlFlashDrives\bin\Debug\ShockwaveFlashObjects.dll
